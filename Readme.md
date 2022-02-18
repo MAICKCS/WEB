@@ -1,1 +1,1 @@
-Projeto desenvolvido para disciplina Web
+Projeto desenvolvido para disciplina WEB
